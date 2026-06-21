@@ -187,7 +187,7 @@ export default function ContactPage() {
                     <div className="w-9 h-9 bg-white border border-neutral-200 rounded-lg flex items-center justify-center flex-shrink-0">
                       <MapPin className="w-4 h-4" />
                     </div>
-                    MG Road, Bengaluru<br />Karnataka 560001
+                    Banjara Hills, Hyderabad<br />Telangana 500034
                   </div>
                   <div className="flex items-center gap-3 text-sm text-neutral-600">
                     <div className="w-9 h-9 bg-white border border-neutral-200 rounded-lg flex items-center justify-center">

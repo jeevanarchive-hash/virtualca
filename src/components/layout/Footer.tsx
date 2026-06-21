@@ -67,7 +67,7 @@ export default function Footer() {
               </a>
               <div className="flex items-start gap-3 text-sm text-neutral-400">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
-                Bengaluru, Karnataka — India
+                Hyderabad, Telangana — India
               </div>
             </div>
 
