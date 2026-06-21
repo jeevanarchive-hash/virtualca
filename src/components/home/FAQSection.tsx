@@ -37,7 +37,7 @@ export default function FAQSection() {
                 </div>
               </a>
               <a
-                href="mailto:hello@virtualca.in"
+                href="mailto:support@virtualca.in"
                 className="flex items-center gap-4 p-4 border border-neutral-200 rounded-xl hover:border-neutral-300 hover:bg-neutral-50 transition-colors group"
               >
                 <div className="w-10 h-10 bg-neutral-100 rounded-lg flex items-center justify-center group-hover:bg-neutral-200 transition-colors">
@@ -45,7 +45,7 @@ export default function FAQSection() {
                 </div>
                 <div>
                   <p className="font-semibold text-neutral-900 text-sm">Email our team</p>
-                  <p className="text-sm text-neutral-500">hello@virtualca.in · Response within 4 hours</p>
+                  <p className="text-sm text-neutral-500">support@virtualca.in · Response within 4 hours</p>
                 </div>
               </a>
               <button

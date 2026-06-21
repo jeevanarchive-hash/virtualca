@@ -404,7 +404,7 @@ export default function ClientPortalPage() {
                   {[
                     { icon: '📞', title: 'Call Us', desc: '+91 83330 0527', sub: 'Mon–Sat 9am–7pm' },
                     { icon: '💬', title: 'Live Chat', desc: 'Average 2 min reply', sub: 'Available 24/7' },
-                    { icon: '✉️', title: 'Email', desc: 'hello@virtualca.in', sub: 'Reply within 4 hours' },
+                    { icon: '✉️', title: 'Email', desc: 'support@virtualca.in', sub: 'Reply within 4 hours' },
                   ].map((opt) => (
                     <button key={opt.title} className="bg-white border border-neutral-200 rounded-2xl p-5 text-left hover:border-neutral-300 transition-colors card-hover">
                       <div className="text-2xl mb-3">{opt.icon}</div>

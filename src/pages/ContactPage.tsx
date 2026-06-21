@@ -177,11 +177,11 @@ export default function ContactPage() {
                     </div>
                     +91 83330 0527
                   </a>
-                  <a href="mailto:hello@virtualca.in" className="flex items-center gap-3 text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
+                  <a href="mailto:support@virtualca.in" className="flex items-center gap-3 text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
                     <div className="w-9 h-9 bg-white border border-neutral-200 rounded-lg flex items-center justify-center">
                       <Mail className="w-4 h-4" />
                     </div>
-                    hello@virtualca.in
+                    support@virtualca.in
                   </a>
                   <div className="flex items-start gap-3 text-sm text-neutral-600">
                     <div className="w-9 h-9 bg-white border border-neutral-200 rounded-lg flex items-center justify-center flex-shrink-0">

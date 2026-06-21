@@ -61,9 +61,9 @@ export default function Footer() {
                 <Phone className="w-4 h-4 flex-shrink-0" />
                 +91 83330 0527
               </a>
-              <a href="mailto:hello@virtualca.in" className="flex items-center gap-3 text-sm text-neutral-400 hover:text-white transition-colors">
+              <a href="mailto:support@virtualca.in" className="flex items-center gap-3 text-sm text-neutral-400 hover:text-white transition-colors">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                hello@virtualca.in
+                support@virtualca.in
               </a>
               <div className="flex items-start gap-3 text-sm text-neutral-400">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
